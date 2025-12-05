@@ -40,9 +40,9 @@ The system classifies URLs as **SAFE** or **UNSAFE** with extremely high accurac
 ## ⚙️ Setup & Installation
 
 1️⃣ Clone Repository
-git clone https://github.com/Balaji-731/networksecurity.git
+git clone https://github.com/Balaji-731/websitechecker.git
 
-cd networksecurity
+cd websitechecker
 
 2️⃣ Create Virtual Environment
 python -m venv venv
