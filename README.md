@@ -40,22 +40,29 @@ The system classifies URLs as **SAFE** or **UNSAFE** with extremely high accurac
 ## ⚙️ Setup & Installation
 
 1️⃣ Clone Repository
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Balaji-731/networksecurity.git
+
+cd networksecurity
 
 2️⃣ Create Virtual Environment
 python -m venv venv
+
 venv\Scripts\activate        # Windows
+
 source venv/bin/activate     # Mac/Linux
 
 3️⃣ Install Dependencies
+
 pip install -r requirements.txt
 
 4️⃣ Add .env file
+
 MONGO_DB_URL=your_url
+
 SESSION_KEY=your_secret_key
 
 5️⃣ Run Application
+
 python app.py
 
 
