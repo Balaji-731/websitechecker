@@ -12,7 +12,7 @@ load_dotenv()
 app = Flask(__name__)
 
 # SECRET KEY FIX
-app.secret_key = os.getenv("SESSION_KEY") or "fallback_secret_key"
+app.secret_key = os.getenv("SESSION_KEY")
 
 PREPROCESSOR_PATH = "final_model/preprocessor.pkl"
 MODEL_PATH = "final_model/model.pkl"
