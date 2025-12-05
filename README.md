@@ -100,11 +100,9 @@ Now open 👇
 
 👤 Author
 
-    Your Name
-    AI/ML Engineer • Cybersecurity Enthusiast
+    P Balaji
 
-    GitHub: https://github.com/
-    <your-username>
-    Email: your-email@example.com
+    GitHub: https://github.com/Balaji-731
+    Email: poralabalaji@gmail.com
 
 
